@@ -1,0 +1,4 @@
+describe DockingStation do
+
+
+end
